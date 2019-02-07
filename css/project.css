@@ -1,0 +1,12 @@
+img {
+  width: 80%;
+  border-radius: 4px
+}
+
+.headshot {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
